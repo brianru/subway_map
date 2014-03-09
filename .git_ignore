@@ -1,0 +1,6 @@
+.DS_Store
+.ghci
+*~
+*.swp
+dist/*
+log/*
